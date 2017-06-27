@@ -1671,7 +1671,7 @@ static PHYSFS_Io *ZIP_openRead(void *opaque, const char *filename)
     ZIPfileinfo *finfo = NULL;
     PHYSFS_Io *io = NULL;
     PHYSFS_uint8 *password = NULL;
-    int i;
+    //int i;
 
     /* if not found, see if maybe "$PASSWORD" is appended. */
     if ((!entry) && (info->has_crypto))
