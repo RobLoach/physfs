@@ -1,0 +1,9 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+extras/physfs.pc
+*.a
+*.so
+*.so.*
+test_physfs
