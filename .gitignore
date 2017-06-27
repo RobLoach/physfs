@@ -8,3 +8,4 @@ extras/physfs.pc
 *.so
 *.so.*
 test_physfs
+Doxyfile
